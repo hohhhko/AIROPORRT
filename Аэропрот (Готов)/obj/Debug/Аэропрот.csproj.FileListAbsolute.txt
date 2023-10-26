@@ -1,0 +1,35 @@
+E:\МДК 03.02\Аэропрот\bin\Debug\Аэропрот.exe.config
+E:\МДК 03.02\Аэропрот\bin\Debug\Аэропрот.exe
+E:\МДК 03.02\Аэропрот\bin\Debug\Аэропрот.pdb
+E:\МДК 03.02\Аэропрот\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.02\Аэропрот\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.csproj.AssemblyReference.cache
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.FormAutoriztion.resources
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.Properties.Resources.resources
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.csproj.GenerateResource.cache
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.csproj.CoreCompileInputs.cache
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.csproj.CopyComplete
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.exe
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.pdb
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.FormTablo.resources
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.FormRegistarion.resources
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.FormDecor.resources
+E:\МДК 03.02\Аэропрот\obj\Debug\Аэропрот.FormDelete.resources
+E:\МДК 03.02\Аэропрот (Готов)\bin\Debug\Аэропрот.exe.config
+E:\МДК 03.02\Аэропрот (Готов)\bin\Debug\Аэропрот.exe
+E:\МДК 03.02\Аэропрот (Готов)\bin\Debug\Аэропрот.pdb
+E:\МДК 03.02\Аэропрот (Готов)\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.02\Аэропрот (Готов)\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.csproj.AssemblyReference.cache
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.FormAutoriztion.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.FormDecor.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.FormDelete.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.FormRegistarion.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.FormTablo.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.Properties.Resources.resources
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.csproj.GenerateResource.cache
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.csproj.CoreCompileInputs.cache
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.csproj.CopyComplete
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.exe
+E:\МДК 03.02\Аэропрот (Готов)\obj\Debug\Аэропрот.pdb
